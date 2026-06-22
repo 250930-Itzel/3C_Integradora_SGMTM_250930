@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="Images/Empresa_Logo_Principal.png" alt="Logo Empresa" width="420">
+<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo Empresa" width="420">
 
 <br><br>
 
-<img src="Images/Software_Logo.png" alt="Logo Taller Mécanico SGTM " width="420">
+<img src="imágenes/Software_Logo.png" alt="Logo Taller Mécanico SGTM " width="420">
 
 </div>
 
@@ -60,7 +60,7 @@ La aplicación propuesta permitirá centralizar información operativa del negoc
 
 <div align="center">
 
-<img src="Images/Empresa_Logo_Principal.png" alt="Logo Emprea" width="380">
+<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo Emprea" width="380">
 
 </div>
 
@@ -88,11 +88,11 @@ El propósito de Soft3CDev en este proyecto es diseñar una solución tecnológi
 
 <div align="center">
 
-<img src="Images/Empresa_Logo_Principal.png" alt="Logo de marca SGMT" width="420">
+<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo de marca SGMT" width="420">
 
 <br><br>
 
-<img src="Images/Software_Logo.png" alt="Logo del software SGMT" width="420">
+<img src="imágenes/Software_Logo.png" alt="Logo del software SGMT" width="420">
 
 </div>
 
