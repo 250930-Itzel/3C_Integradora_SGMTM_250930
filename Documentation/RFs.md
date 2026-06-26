@@ -62,7 +62,7 @@
 |--------------|---|--------|--------------------|-------------|
 | Itzel Joseline Sánchez Hernández | [250930-Itzel](https://github.com/250930-Itzel) | Líder del Proyecto | 🟢 Aprobados | Se aceptaron los requerimientos funcionales | 
 | Jessica Gutierrez Lecona | [250910Jessica](https://github.com/250910Jessica) | Administrador de base de datos | 🔴 No Aprobados  | Sin comentarios 
-| Brian Isael Ramírez Cortez | [250980-brian](https://github.com/250980-brian) | Líder de Desarrollo | 🔴 No Aprobados | Sin comentarios | 
+| Brian Isael Ramírez Cortez | [250980-brian](https://github.com/250980-brian) | Líder de Desarrollo | 🟢 Aprobados  | Sin comentarios | 
 | Juan Fernando Hernandez Lopez  | [250953-cpu](https://github.com/250953-cpu) | Ingeniero de Calidad | 🔴 No Aprobados | Sin comnetarios | 
 | René Vargas Zarate  | [RenéVaZa](https://github.com/ReneVaZa) | Ingeniero de Calidad | 🔴 No aprobado | Sin comentarios   
 | Marco A. Ramirez Hernandez | [MTI-MarcoRH](https://github.com/MTI-MarcoRH) | Cliente | 🔴 No Aprobados  | Sin comentarios | 
