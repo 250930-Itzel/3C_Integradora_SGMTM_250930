@@ -292,10 +292,10 @@ Los documentos específicos como requerimientos funcionales, requerimientos no f
 
 ---
 ### TABLA DE COLABORADORES 
-| Nombre                          | Usuario                       | Puesto |
+| Nombre                          | Usuario                       | Puesto | Ultima accion | 
 |---------------------------------|-------------------------------|--------|
-| Jessica Gutierrez Lecona | [250910Jessica](https://github.com/250910Jessica)    | Lider de Proyecto |
-|  Itzel Joseline Sanchez Hernandez | [250930-Itzel](https://github.com/250930-Itzel)    | Administrador de Bases de Datos |
+| Itzel Joseline Sanchez Hernandez  | [250930-Itzel](https://github.com/250930-Itzel)    | Lider de Proyecto | Creacion del Readme.md principal del proyecto|
+|  Jessica Gutierrez Lecona | [250910Jessica](https://github.com/250910Jessica)     | Administrador de Bases de Datos | Carga del Modelo E-R |
 | Juan Fernando Hernandez Lopez | [250953-cpu](https://github.com/250953-cpu)    | Lider de Desarrollo |
 |  Brian Isael Rmirez Cortes | [250980-brian](https://github.com/250980-brian)    | Ingenero de Calidad |
 | M.T.I. Marco A. Ramírez Hdez | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)     | Cliente |
