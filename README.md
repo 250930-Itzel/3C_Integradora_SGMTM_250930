@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo Empresa" width="420">
+<img src="imagenes/Empresa_Logo_Principal.png" alt="Logo Empresa" width="420">
 
 <br><br>
 
-<img src="imágenes/Software_Logo.png" alt="Logo Taller Mécanico SGTM " width="420">
+<img src="imagenes/Software_Logo.png" alt="Logo Taller Mécanico SGTM " width="420">
 
 </div>
 
@@ -60,7 +60,7 @@ La aplicación propuesta permitirá centralizar información operativa del negoc
 
 <div align="center">
 
-<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo Emprea" width="380">
+<img src="imagenes/Empresa_Logo_Principal.png" alt="Logo Emprea" width="380">
 
 </div>
 
@@ -88,11 +88,11 @@ El propósito de Soft3CDev en este proyecto es diseñar una solución tecnológi
 
 <div align="center">
 
-<img src="imágenes/Empresa_Logo_Principal.png" alt="Logo de marca SGMT" width="420">
+<img src="imagenes/Empresa_Logo_Principal.png" alt="Logo de marca SGMT" width="420">
 
 <br><br>
 
-<img src="imágenes/Software_Logo.png" alt="Logo del software SGMT" width="420">
+<img src="imagenes/Software_Logo.png" alt="Logo del software SGMT" width="420">
 
 </div>
 
@@ -294,10 +294,10 @@ Los documentos específicos como requerimientos funcionales, requerimientos no f
 ### TABLA DE COLABORADORES 
 | Nombre                          | Usuario                       | Puesto |
 |---------------------------------|-------------------------------|--------|
-| Brian Isael Rmirez Cortes | [250980-brian](https://github.com/250980-brian)    | Lider de Proyecto |
-| Juan Fernando Hernandez Lopez | [250953-cpu](https://github.com/250953-cpu)    | Administrador de Bases de Datos |
-| Itzel Joseline Sanchez Hernandez | [250930-Itzel](https://github.com/250930-Itzel)    | Lider de Desarrollo |
-| Jessica Gutierrez Lecona | [250910Jessica](https://github.com/250910Jessica)    | Ingenero de Calidad |
+| Jessica Gutierrez Lecona | [250910Jessica](https://github.com/250910Jessica)    | Lider de Proyecto |
+|  Itzel Joseline Sanchez Hernandez | [250930-Itzel](https://github.com/250930-Itzel)    | Administrador de Bases de Datos |
+| Juan Fernando Hernandez Lopez | [250953-cpu](https://github.com/250953-cpu)    | Lider de Desarrollo |
+|  Brian Isael Rmirez Cortes | [250980-brian](https://github.com/250980-brian)    | Ingenero de Calidad |
 | M.T.I. Marco A. Ramírez Hdez | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)     | Cliente |
 ---
 # Documentos específicos por subcarpeta
